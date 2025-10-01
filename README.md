@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coded.jo
+- 👋 Hi, I’m @Juso
 - 👀 I’m interested in learning ethical hacking and cyber security
 - 🌱 I’m currently learning termux equally ethical hacking
 - 💞️ I’m looking to collaborate on cyber security and ethical hacking
