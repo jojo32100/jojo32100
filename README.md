@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @Juso
-- 👀 I’m interested in learning ethical hacking and cyber security
+
+- 👀 Here’s a polished professional caption you can use for your GitHub profile:
+
+-🔐 Cybersecurity Expert & Analyst | 💻Programmer | 🚀 Tech Enthusiast | Always Exploring New Frontiers in Technology
+
 - 🌱 I’m currently learning termux equally ethical hacking
+
 - 💞️ I’m looking to collaborate on cyber security and ethical hacking
+
 - 📫 How to reach me josesmakama205@gmail.com 
 
 <!---
