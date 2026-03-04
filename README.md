@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Juso
 
-- 👀 Here’s a polished professional caption you can use for your GitHub profile:
 
 -🔐 Cybersecurity Expert & Analyst | 💻Programmer | 🚀 Tech Enthusiast | Always Exploring New Frontiers in Technology
 
